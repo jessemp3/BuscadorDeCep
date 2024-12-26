@@ -1,5 +1,5 @@
 {
-    "name": "jesse/projeto-cep",
+    "name": "jessemkv/projeto-cep",
     "description": "busca de cep online",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
     },
     "authors": [
         {
-            "name": "jesse",
+            "name": "jessemkv",
             "email": "nitchsx@gmail.com"
         }
     ],
