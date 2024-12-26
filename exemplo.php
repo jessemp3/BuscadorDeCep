@@ -4,10 +4,10 @@ require_once __DIR__ . '/vendor/autoload.php';
 
 use Wead\DigitalCep\Search;
 
-$busca = new Search;
+    $busca = new Search;
 
-$resultado = $busca->getAddressFromZipcode('01050020');
+    $resultado = $busca->getAddressFromZipcode('38408242');
 
-print_r($resultado);
+    print_r($resultado);
 
 ?>
